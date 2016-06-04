@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dafdaf ddd a second file
+=======
+aaaaddd a second file
+>>>>>>> 9ca302d5f44f587e3ca6034fbc84c9f677399bb2
